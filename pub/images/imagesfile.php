@@ -1,3 +1,3 @@
 <?php
-echo "images file";
+echo "images file added";
 ?>
